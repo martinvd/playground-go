@@ -1,3 +1,3 @@
 # playground-go
 
-Personal project to learn Go.
+Personal project to learn [Go](https://golang.org/).
